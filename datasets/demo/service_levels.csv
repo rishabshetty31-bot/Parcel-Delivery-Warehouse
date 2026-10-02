@@ -1,0 +1,7 @@
+service_code,service_name,nominal_transit_hours,record_version,source_updated_at_utc
+ECONOMY,Economy Parcel,72,1,2025-12-01T09:00:00Z
+EXPRESS,Express Parcel,24,1,2025-12-01T09:00:00Z
+EXPRESS,Express Parcel,24,1,2025-12-01T09:00:00Z
+STANDARD,Former Standard Parcel,48,1,2025-11-30T09:00:00Z
+STANDARD,Former Standard Parcel,48,1,2025-11-30T09:00:00Z
+STANDARD,Standard Parcel,48,2,2025-12-01T09:00:00Z

@@ -1,0 +1,55 @@
+{
+  "attempt_messages": 11,
+  "confirmed_on_time": {
+    "denominator": 10,
+    "numerator": 4
+  },
+  "due": 10,
+  "due_outcomes": {
+    "LATE": 1,
+    "LOST": 1,
+    "ON_TIME": 4,
+    "OPEN_OVERDUE": 2,
+    "RETURNED": 1,
+    "UNKNOWN": 1
+  },
+  "event_messages": 14,
+  "fact_rows": 14,
+  "first_attempt_success": {
+    "denominator": 7,
+    "numerator": 4
+  },
+  "handed_over": 12,
+  "label": "SYNTHETIC — FOR LEARNING ONLY",
+  "loss_rate": {
+    "denominator": 10,
+    "numerator": 1
+  },
+  "non_attempt_messages": 3,
+  "open_overdue": {
+    "hours_sum": 48,
+    "shipments": 2
+  },
+  "physical_attempts": 10,
+  "return_rate": {
+    "denominator": 10,
+    "numerator": 1
+  },
+  "source": "Hand-reviewed Step 2 fixture; numbers are written explicitly, not calculated from CSV output",
+  "source_rows": {
+    "customer_locations": 2,
+    "customers": 2,
+    "depots": 3,
+    "service_levels": 3,
+    "shipments": 14,
+    "tracking_events": 14
+  },
+  "tracking_coverage": {
+    "denominator": 12,
+    "numerator": 10
+  },
+  "transit": {
+    "eligible": 6,
+    "hours_sum": 114
+  }
+}

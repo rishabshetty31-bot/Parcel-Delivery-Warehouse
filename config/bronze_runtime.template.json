@@ -1,0 +1,13 @@
+{
+  "connection": {
+    "server": "<YOUR_SQL_SERVER_INSTANCE>",
+    "database": "<YOUR_UNIQUE_DATABASE_NAME>",
+    "driver": "ODBC Driver 18 for SQL Server",
+    "trusted_connection": true,
+    "encrypt": true,
+    "trust_server_certificate": false
+  },
+  "input_root": "datasets/clean",
+  "reporting_cutoff_utc": "2026-06-28T23:59:59Z",
+  "extract_as_of_utc": "2026-07-07T23:59:59Z"
+}

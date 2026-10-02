@@ -1,0 +1,12 @@
+depot_id,depot_name,city_name,region_code,record_version,source_updated_at_utc
+DEP01,Former Lumenford Hub,Lumenford,NORTH_REACH,1,2025-11-30T09:00:00Z
+DEP01,Former Lumenford Hub,Lumenford,NORTH_REACH,1,2025-11-30T09:00:00Z
+DEP01,Lumenford Hub,Lumenford,NORTH_REACH,2,2025-12-01T09:00:00Z
+DEP02,Brindle Quay Depot,Brindle Quay,NORTH_REACH,1,2025-12-01T09:00:00Z
+DEP03,Alderwick Hub,Alderwick,EAST_VALE,1,2025-12-01T09:00:00Z
+DEP04,Mistral Hollow Depot,Mistral Hollow,EAST_VALE,1,2025-12-01T09:00:00Z
+DEP05,Sunmere Hub,Sunmere,SOUTH_MERE,1,2025-12-01T09:00:00Z
+DEP06,Reedhaven Depot,Reedhaven,SOUTH_MERE,1,2025-12-01T09:00:00Z
+DEP07,Ferncross Hub,Ferncross,WEST_FEN,1,2025-12-01T09:00:00Z
+DEP08,Mossgate Depot,Mossgate,WEST_FEN,1,2025-12-01T09:00:00Z
+DEP08,Mossgate Depot,Mossgate,WEST_FEN,1,2025-12-01T09:00:00Z
